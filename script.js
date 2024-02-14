@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yayyy!! :3";
+  titleElement.innerHTML = "Yeii sabia que dirias que si, te amo, eres mi chica ideal <3 soy muy feliz contigo, hoy no pudimos estar juntos pero eso no significa que lo nuestro no valga, te amo lindota! quiero estar contgio todos los dias de mi vida ";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
